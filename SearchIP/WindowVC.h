@@ -7,7 +7,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
-#import "WindowController.h"
+#import <CwGeneralManagerFrameWork/WindowController.h>
 
 
 NS_ASSUME_NONNULL_BEGIN
